@@ -2,7 +2,24 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.42.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.44.
+
+Change Log v0.44
+  - Design screen
+    - Tooltip descriptions for each setting on mouse hover
+  - Shop
+    - Re-arranged shop to fix resolution issues
+  - Home screen
+    - Added background music
+  - Inro scene to improve atmosphere
+  - General
+    - Added sounds for selected and clicking buttons
+    - Fade background music when transitioning to a new scene
+  - Dungeon Player
+    - Added pause menu
+    - Added ability to quit game from pause menu
+    - Added background music
+    - Added sound for when player takes damage 
 
 Change Log v0.43
   - Monsters
