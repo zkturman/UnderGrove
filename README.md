@@ -2,7 +2,24 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.44.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.45.
+
+Change Log v0.45
+  - Intro Scene
+    - Matched firefly color to starting player's color
+  - Added instruction scene
+    - Shows instruction for player movement
+    - Shows instructions for player actions
+  - Dungeon Player
+    - Added new icons for SpiriToken UI
+    - Moved SpiriToken UI to upper-left corner
+    - Added Instructions/Tipsheet to Pause menu
+      - Includes keys needed for basic commands
+      - Includes a legend of icons with brief descriptions/purpose 
+    - Added sound for collecting item
+  - General
+    - Added new SpiriToken icons
+    - Added new SpiriToken sprites
 
 Change Log v0.44
   - Design screen
