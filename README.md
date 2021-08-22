@@ -2,7 +2,25 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.45.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.5.
+
+Change Log v0.5
+  - Intro Scene
+    - Added background atomosphere sounds
+  - Dungeon Player
+    - Fixed issue where collectible sound didn't play completely while character was moving
+    - Added sounds to dungeon chest
+    - Added sound to The Shoppe Ascension
+    - Fixed Ascension cost so it removes credits from the player's game
+    - Added animation to Ad to indicate it can be clicked
+    - Spaced out Ad so Ad Free button is further away from the ad
+  - GameOver
+    - Added metric to count number of ascensions
+    - Added background sound
+  - Dungeon Editor
+    - Implemented Search Difficulty configuration
+    - Added info popup window for Dark Game Design Patterns
+    - Fixed bug where values don't reset when quitting
 
 Change Log v0.45
   - Intro Scene
