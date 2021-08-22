@@ -4,7 +4,7 @@
 
 As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.5.
 
-Change Log v0.5
+### Change Log v0.5
   - Intro Scene
     - Added background atomosphere sounds
   - Dungeon Player
@@ -22,7 +22,7 @@ Change Log v0.5
     - Added info popup window for Dark Game Design Patterns
     - Fixed bug where values don't reset when quitting
 
-Change Log v0.45
+### Change Log v0.45
   - Intro Scene
     - Matched firefly color to starting player's color
   - Added instruction scene
@@ -39,7 +39,7 @@ Change Log v0.45
     - Added new SpiriToken icons
     - Added new SpiriToken sprites
 
-Change Log v0.44
+### Change Log v0.44
   - Design screen
     - Tooltip descriptions for each setting on mouse hover
   - Shop
@@ -56,7 +56,7 @@ Change Log v0.44
     - Added background music
     - Added sound for when player takes damage 
 
-Change Log v0.43
+### Change Log v0.43
   - Monsters
     - Added idle monster animations
     - Adjusted hit boxes for monsters
