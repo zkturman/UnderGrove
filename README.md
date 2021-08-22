@@ -3,6 +3,11 @@
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
 As of 18 August, changes are made to the game on a daily basis. The current version of the game is v0.5.
+### Change Log v0.51
+  - Dungeon Editor
+    - Re-enabled Demo quit functionality
+  - General
+    - Removed some debugging messages from browser log
 
 ### Change Log v0.5
   - Intro Scene
