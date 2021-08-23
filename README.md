@@ -7,7 +7,21 @@ As of 18 August, changes are made to the game on a daily basis. The current vers
 ---
 
 ### Change Log v0.52
-  - Updated wording of Design about page
+  - Design Page
+    - Updated about window wording
+  - Dungeon Player
+    - Added fireflies to clearly marked doors
+    - Made fireflies cyan next to the SpiriTree
+    - Randomised dungeon patterns for play
+  - Intro Scene
+    - Increased size of the continue text
+    - Removed unwanted atmosphere sounds
+  - Tutorial
+    - Made instruction text larger
+    - Separated keys from description more clearly
+    - Added info that Esc also provides help
+  - General
+    - Made button sounds play from an audio source linked to the game's camera
 
 ### Change Log v0.51
   - Dungeon Editor
