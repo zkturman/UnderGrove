@@ -2,7 +2,7 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.51__.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.52__.
 
 ---
 
