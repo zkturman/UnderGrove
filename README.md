@@ -2,9 +2,18 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.52__.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.53__.
 
 ---
+
+### Change Log v0.53
+ - Dungeon Player
+   - Allow player to attack from left and right
+   - Fixed bug where credits don't decrease when loot chests are purchased
+   - Ads can no longer be closed before the ad time is up
+   - Disabled revive option when player doesn't have enough credits
+   - Monster hit boxes have been updated to fit the shape of the monster
+   - Quitting in demo mode always returns to the editor, rather than the home screen
 
 ### Change Log v0.52
   - Design Page
