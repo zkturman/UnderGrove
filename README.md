@@ -2,9 +2,16 @@
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
-As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.53__.
+As of 18 August, changes are made to the game on a daily basis. The current version of the game is __v0.54__.
 
 ---
+
+### Change Log v0.54
+  - Dungeon Editor
+    - Updated about message
+    - Added JS clipboard functionality to work in-browser
+  - Dungeon Player
+    - Decrease size of procedurally generated rooms
 
 ### Change Log v0.53
  - Dungeon Player
