@@ -1,11 +1,14 @@
 # UnderGrove
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
+<< Add itch.io link >>
 
 
 ## Premise
 
 Under Grove is a procedurally generated, 2D adventure game. The purpose of this game is to educate players on unethical game design to better protect them from potentially manipulative practice. Within the game, players can add unethical design patterns to the gameplay and experiment with their effects. These settings can be shared with others to add a small social aspect to the game.
+
+<< Embedded video to be added. >>
 
 ## News
 
