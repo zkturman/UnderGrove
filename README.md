@@ -1,4 +1,4 @@
-# UnderGrove
+# Under Grove
 
 ## [Play Game](https://zkturman.github.io/UnderGrove/)
 
